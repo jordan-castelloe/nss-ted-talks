@@ -6,8 +6,8 @@
 - Working in groups, being able to communicate, dealing with people REALLY make you hireable -- these are at least as (and often more) important as/than coding. 
 
 ## Soft skills will help you get your first job
-- Anecdotal evidence suggests that people with strong people skills consistently have the easiest time finding jobs
-- Being able to communicate clearly about code will help you interview
+- Anecdotal evidence suggests that people with strong people skills consistently have the easiest time finding jobs.
+- Being able to communicate clearly about code will help you interview.
 
 ## Soft skills will help you keep your first job
 - Software development is a team sport! You will be working on a team!
@@ -17,18 +17,18 @@
 ## What's the point of group projects?
 - Learning!
 - Learning for everyone! 
-- It's not about producing an awesome project
-- The best way to make sure everybody learns is to make sure everybody has their hands in the code
-- If the group dynamics are off kilter, it can screw up the learning process 
+- It's not about producing an awesome project.
+- The best way to make sure everybody learns is to make sure everybody has their hands in the code.
+- If the group dynamics are off kilter, the learning process is off kilter.
 
 
 ## Navigating team dynamics can be hard! 
 Here are some potential challenges you might run into:
-- You feel like you’re behind your teammates
-- You feel like you’re ahead of your teammates
-- A subset of the group does the majority of the work
-- A subset of the group doesn’t contribute very much at all
-- Teammates have different standards for what “good code” looks like
+- You feel like you’re behind your teammates!
+- You feel like you’re ahead of your teammates!
+- A subset of the group does the majority of the work!
+- A subset of the group doesn’t contribute very much at all!
+- Teammates have different standards for what “good code” looks like!
 
 
 ## Most of the issues can be solved by clear, direct, and ongoing communication.
