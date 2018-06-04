@@ -46,15 +46,17 @@ Challenge yourself to say your ideas and opinions out loud even if you think the
 - Try asking questions about other people’s ideas if you don’t understand them.
 
 #### Okay, maybe it’s not a confidence issue and you’re actually behind some of your teammates
-- It’s better to be upfront about it than try to fudge your way through - you are not here to prove yourself. You are here to learn!
-- You can say something like, “I feel shaky on this, I’m going to go slower and make sure I understand it”
+- It’s better to be upfront about it than try to fudge your way through - you are not here to prove yourself. You're here to learn!
+- You can say something like, “I feel shaky on this, I’m going to go slower and make sure I understand it.” This is totally fine! You don't have to feel bad about that!
 - You should understand every line of code in your project. Making sure that happens is about 70% on you and 30% on your teammates.
 - Ask to go over code you don’t understand!
 
 
 ## If you feel like you’re ahead of your teammates:
-- Are you really? Is it possible that they just communicate differently or less confidently? 
-- Don’t do significantly more than your share of the work! Workload should be distributed pretty evenly among group members. If you’re working faster than everybody else, pause and offer to help. Try pair programming - push yourself to communicate more and code less.
+- Ask yourself: are you really? Is it possible that they just communicate differently or less confidently? 
+- Don’t do significantly more than your share of the work! 
+- Workload should be distributed pretty evenly among group members. If you’re working faster than everybody else, pause and offer to help. 
+- Try pair programming - push yourself to communicate more and code less.
 - Listen to their input. There’s a good chance they know something you don’t or were paying attention in class when you weren’t.
 
 
@@ -62,9 +64,9 @@ Challenge yourself to say your ideas and opinions out loud even if you think the
 
 #### If someone isn’t pulling their weight, it’s usually not an issue of laziness.
 - It’s probably (dun dun DUNNNN) A COMMUNICATION ISSUE!
-- Maybe they feel like they’re slowing down the rest of the team
+- Maybe they feel like they’re slowing down the rest of the team.
 - Maybe they didn’t fully understand the planning process and aren’t sure how to contribute.
-- Maybe they’re kind of passive while their other teammates are super proactive
+- Maybe they’re kind of passive while their other teammates are super proactive.
 - Maybe they’re having a bad week.
 
 #### If someone is pulling too much weight, it’s usually not because they’re trying to be a jerk.
@@ -82,7 +84,7 @@ Challenge yourself to say your ideas and opinions out loud even if you think the
 
 ## If there are varying standards about what 'good enough' code looks like:
 - There are as many ideas of what “good code” looks like as there are software developers in the universe.
-- All code is improvable and we should all be on the lookout for ways to improve it 
+- All code is improvable and we should all be on the lookout for ways to improve it, BUT: 
 - Do not rewrite code that someone else wrote without talking to them first.
 - Instead, comment on their pull request before they merge it in! Or, you know, talk to them in person. 
 - If they are doing it wrong, you should help them, not just ‘fix it’ - again, about learning, not producing. What will make them (and you) into a better developer? Probably communicating.
